@@ -1,0 +1,17 @@
+C:\Users\joe69\source\repos\MeowLangCompiler\MeowLangCompiler\bin\Debug\net8.0\MeowLangCompiler.exe
+C:\Users\joe69\source\repos\MeowLangCompiler\MeowLangCompiler\bin\Debug\net8.0\MeowLangCompiler.deps.json
+C:\Users\joe69\source\repos\MeowLangCompiler\MeowLangCompiler\bin\Debug\net8.0\MeowLangCompiler.runtimeconfig.json
+C:\Users\joe69\source\repos\MeowLangCompiler\MeowLangCompiler\bin\Debug\net8.0\MeowLangCompiler.dll
+C:\Users\joe69\source\repos\MeowLangCompiler\MeowLangCompiler\bin\Debug\net8.0\MeowLangCompiler.pdb
+C:\Users\joe69\source\repos\MeowLangCompiler\MeowLangCompiler\bin\Debug\net8.0\Antlr4.Runtime.Standard.dll
+C:\Users\joe69\source\repos\MeowLangCompiler\MeowLangCompiler\obj\Debug\net8.0\MeowLangCompiler.csproj.AssemblyReference.cache
+C:\Users\joe69\source\repos\MeowLangCompiler\MeowLangCompiler\obj\Debug\net8.0\MeowLangCompiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joe69\source\repos\MeowLangCompiler\MeowLangCompiler\obj\Debug\net8.0\MeowLangCompiler.AssemblyInfoInputs.cache
+C:\Users\joe69\source\repos\MeowLangCompiler\MeowLangCompiler\obj\Debug\net8.0\MeowLangCompiler.AssemblyInfo.cs
+C:\Users\joe69\source\repos\MeowLangCompiler\MeowLangCompiler\obj\Debug\net8.0\MeowLangCompiler.csproj.CoreCompileInputs.cache
+C:\Users\joe69\source\repos\MeowLangCompiler\MeowLangCompiler\obj\Debug\net8.0\MeowLang.4B0554CD.Up2Date
+C:\Users\joe69\source\repos\MeowLangCompiler\MeowLangCompiler\obj\Debug\net8.0\MeowLangCompiler.dll
+C:\Users\joe69\source\repos\MeowLangCompiler\MeowLangCompiler\obj\Debug\net8.0\refint\MeowLangCompiler.dll
+C:\Users\joe69\source\repos\MeowLangCompiler\MeowLangCompiler\obj\Debug\net8.0\MeowLangCompiler.pdb
+C:\Users\joe69\source\repos\MeowLangCompiler\MeowLangCompiler\obj\Debug\net8.0\MeowLangCompiler.genruntimeconfig.cache
+C:\Users\joe69\source\repos\MeowLangCompiler\MeowLangCompiler\obj\Debug\net8.0\ref\MeowLangCompiler.dll
