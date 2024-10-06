@@ -9,7 +9,7 @@ namespace MeowLangCompiler
         static void Main(string[] args)
         {
             // Input
-            string source = File.ReadAllText("C:\\Users\\joe69\\source\\repos\\MeowLangCompiler\\MeowLangCompiler\\main.meow");
+            string source = File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), @"..\..\..\main.meow"));
 
             try
             {
