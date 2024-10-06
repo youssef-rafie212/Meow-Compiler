@@ -1,0 +1,18 @@
+int x = 1;
+int y = 3;
+string str = "meow world!";
+float z = 42.12;
+
+// meow 
+
+if(y > x){
+  return true;
+}else{
+  return false;
+}
+
+/*
+  meow again but on 
+  multiple lines
+*/
+

@@ -24,7 +24,8 @@ namespace MeowLangCompiler.Parser
             }
 
             // Get the current token
-            Token manualToken = _tokens[_currentTokenIndex++];
+            Token manualToken = _tokens[_currentTokenIndex];
+            _currentTokenIndex++;
 
             // Map manual token categories to ANTLR token types
             int antlrTokenType = GetAntlrTokenType(manualToken.Category, manualToken.Value!);

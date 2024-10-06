@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeowLangCompiler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+569454e952449e6fd40bbe9b9629597f04e6463a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeowLangCompiler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeowLangCompiler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

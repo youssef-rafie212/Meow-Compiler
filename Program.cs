@@ -9,31 +9,18 @@ namespace MeowLangCompiler
         static void Main(string[] args)
         {
             // Input
-            string source =
-            @" // Defining some variables  
-               int x = 2;
-               int y = 20;
-               string txt = ""World, hello!"";
-                
-               /*
-                If condition 
-                to check if x is greater than y
-               */
-               if (x > y)
-               {
-                    return true;
-               } 
-               else 
-               {
-                    return false;
-               }
-            ";
+            string source = File.ReadAllText("C:\\Users\\joe69\\source\\repos\\MeowLangCompiler\\MeowLangCompiler\\main.meow");
 
             try
             {
                 // Stage 1 : Lexer 
                 Scanner.Lexer lexer = new(source);
                 List<Token> tokens = lexer.Scan();
+                
+                // 1st stage Output
+                foreach(Token t in tokens){
+                    Console.WriteLine(t);
+                }
 
                 // Stage 2 : Parser
                 CustomTokenSource tokenSource = new(tokens);
@@ -41,14 +28,12 @@ namespace MeowLangCompiler
                 MeowParser parser = new(tokenStream);
                 MeowParser.ProgramContext programContext = parser.program();
 
-                // Output
+                // 2nd stage Output
                 Console.WriteLine(programContext.ToStringTree());
             }
-            catch (Exception e)
-            {
-                Console.WriteLine(e.Message);
+            catch {
+                // just to handle missing ";"  null exception
             }
-
         }
     }
 }
